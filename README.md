@@ -22,7 +22,7 @@ Face Recognition based Attendance Management System with a Flask web application
 ### Installation and Usage
 1. Clone the repository:
     ```
-    git clone https://github.com/amlanmohanty1/face-recognition-attendance-management-system-with-PowerBI-dashboard.git
+    git clone https://github.com/Manohar59/Face-Recognition-Attendance-Management-System/tree/main
     ```
 2. Install the required dependencies:
     ```
